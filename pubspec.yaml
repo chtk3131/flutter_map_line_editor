@@ -1,5 +1,6 @@
 name: flutter_map_line_editor
 description: Line editor class for flutter_map
+publish_to: none
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -31,9 +32,7 @@ dependencies:
   #latlong2: ^0.8.0
 
   flutter_map_dragmarker:
-    git:
-      url: https://github.com/chtk3131/flutter_map_dragmarker.git
-      ref: panfix
+    path: ../flutter_map_dragmarker/
 
 dev_dependencies:
   flutter_test:
