@@ -65,9 +65,11 @@ packages:
   flutter_map_dragmarker:
     dependency: "direct main"
     description:
-      path: "../flutter_map_dragmarker"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: f9181485f979ffc71b9c2629d615497cc94b9a6d
+      url: "https://github.com/chtk3131/flutter_map_dragmarker.git"
+    source: git
     version: "1.0.0+1"
   flutter_test:
     dependency: "direct dev"

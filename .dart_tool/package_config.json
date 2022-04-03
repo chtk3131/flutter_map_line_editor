@@ -57,7 +57,7 @@
     },
     {
       "name": "flutter_map_dragmarker",
-      "rootUri": "../../flutter_map_dragmarker",
+      "rootUri": "file:///C:/Users/32722/AppData/Local/Pub/Cache/git/flutter_map_dragmarker-f9181485f979ffc71b9c2629d615497cc94b9a6d/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -224,7 +224,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-03-17T01:50:56.803502Z",
+  "generated": "2022-04-03T15:27:30.633163Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
